@@ -1,6 +1,7 @@
 body {
   text-align: center;
   background-color: #83a1f4;
+  max-height: 100vh;
 }
 
 h1 {
@@ -13,6 +14,7 @@ h1 {
 
 footer {
   color: #DBEDF3;
+  margin: auto;
   font-family: sans-serif;
 }
 
@@ -45,7 +47,7 @@ footer {
 }
 
 .set {
-  margin: 10% auto;
+  margin: 15% auto;
 }
 
 .game-over {
